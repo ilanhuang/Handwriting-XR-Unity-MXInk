@@ -14,8 +14,8 @@
 2. **Enable OpenXR** for Windows and Android in **Project Settings**, then fix any issues in **Validation**.
 3. **Install required packages** from the **Package Manager**:
    - **XR Interaction Toolkit 3.0** + **Starter Assets Sample** (for XR Origin)
-   - **Newtonsoft Json** package
-4. **Import the `HandwritingXR-MXInk` Unity package.** (You may need to fix validation issues again.)
+   - **Newtonsoft Json** package (you will need to add the package by name under com.unity.nuget.newtonsoft-json)
+4. **Import the `handwritingxr_mxink_1.0` Unity package.** downloaded from the package folder. (You may need to fix validation issues again.)
 5. **Set up the XR Origin**:
    - In the **Sample Scene**, delete the **Main Camera**.
    - Drag the **XR Origin** prefab from **Starter Assets Sample** into the scene.
