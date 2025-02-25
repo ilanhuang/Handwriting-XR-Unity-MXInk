@@ -54,10 +54,6 @@
       - **TextManager**
       - **MyScriptAPI**
 
----
 
-## To-Do's
--As this is just a fast prototype there are a lot of things to polish if production usage is intended.
 
-1. Work in the strokes capturing logic as for now, each word must be written in a single stroke which can be counter intuitive. 
 
